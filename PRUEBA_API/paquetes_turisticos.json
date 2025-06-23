@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Aventura en los Andes",
+        "dias": 5,
+        "precio": 800,
+        "lugares": ["Cusco", "Valle Sagrado", "Machu Picchu"]
+    },
+    {
+        "nombre": "Exploración Amazónica",
+        "dias": 7,
+        "precio": 1200,
+        "lugares": ["Puerto Maldonado", "Reserva Tambopata"]
+    },
+    {
+        "nombre": "Ruta Inca Corta",
+        "dias": 3,
+        "precio": 500,
+        "lugares": ["Ollantaytambo", "Camino Inca", "Machu Picchu"]
+    },
+    {
+        "nombre": "Tour de Ciudad y Cultura",
+        "dias": 2,
+        "precio": 300,
+        "lugares": ["Lima", "Miraflores", "Centro Histórico"]
+    }
+]
