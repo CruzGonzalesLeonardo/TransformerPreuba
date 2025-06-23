@@ -4,7 +4,7 @@ import re # Importamos re para expresiones regulares
 
 # --- Configuración ---
 # Reemplaza 'TU_API_KEY_AQUI' con tu clave real de OpenAI
-openai.api_key = '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'
+openai.api_key = '..'
 DATASET_FILE = 'paquetes_turisticos.json' # Asegúrate de que tu archivo JSON se llame así o cambia el nombre aquí
 
 # --- Cargar el dataset ---
